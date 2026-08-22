@@ -1,0 +1,18 @@
+{
+    "name": "DW.UniversialTester.Editor",
+    "rootNamespace": "DirtyWorks.Tools",
+    "references": [
+        "GUID:bf3eb40cd50e7584189d2d1d29ac9fc7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

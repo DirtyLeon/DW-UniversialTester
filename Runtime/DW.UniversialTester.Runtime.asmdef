@@ -1,0 +1,14 @@
+{
+    "name": "DW.UniversialTester.Runtime",
+    "rootNamespace": "DirtyWorks.Tools",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

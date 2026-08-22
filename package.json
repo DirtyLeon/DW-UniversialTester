@@ -1,0 +1,17 @@
+{
+  "name": "com.dirtyworks.universial-tester",
+  "version": "1.0.0",
+  "displayName": "DW Universial Tester",
+  "description": "An upgraded version of universial debug trigger for testing multiple UnityEvents.",
+  "unity": "2022.3",
+  "keywords": [
+    "Debugging",
+    "Testing",
+    "DirtyWorks"
+  ],
+  "author": {
+    "name": "DirtyLeon",
+    "email": "bsexp357079@gmail.com",
+    "url": "https://sites.google.com/view/dirtyworksstudio"
+  }
+}
