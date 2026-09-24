@@ -4,6 +4,7 @@ using UnityEngine.Events;
 
 namespace DirtyWorks.Tools
 {
+    #if UNITY_EDITOR
     public class UniversialTester : MonoBehaviour
     {
         public List<UEventTest> ueventList;
@@ -15,7 +16,6 @@ namespace DirtyWorks.Tools
         public string name = "Test";
         public UEvent testEvent;
         public void InvokeEvents() => testEvent.unityEvent.Invoke();
-        //public void Remove() => 
     }
 
     [System.Serializable]
@@ -23,4 +23,5 @@ namespace DirtyWorks.Tools
     {
         public UnityEvent unityEvent;
     }
+    #endif
 }
